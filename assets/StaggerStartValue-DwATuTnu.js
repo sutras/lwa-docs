@@ -1,0 +1,1 @@
+import{o as e,e as o,f as a}from"./index-DloQOxXN.js";const r={class:"markdown-body"},s=a("h1",null,"StaggerStartValue",-1),n=[s],p={__name:"StaggerStartValue",setup(c,{expose:t}){return t({frontmatter:{}}),(l,d)=>(e(),o("div",r,n))}};export{p as default};
