@@ -1,1 +1,0 @@
-import{o as t,e as o,f as a}from"./index-DloQOxXN.js";const s={class:"markdown-body"},n=a("h1",null,"RelativeValue",-1),r=[n],m={__name:"RelativeValue",setup(c,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),o("div",s,r))}};export{m as default};

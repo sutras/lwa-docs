@@ -1,0 +1,1 @@
+import{o as e,e as o,f as t}from"./index-BxjOkpPk.js";const r={class:"markdown-body"},a=t("h1",null,"CssTransform",-1),n=[a],l={__name:"CssTransform",setup(c,{expose:s}){return s({frontmatter:{}}),(m,d)=>(e(),o("div",r,n))}};export{l as default};

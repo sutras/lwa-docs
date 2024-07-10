@@ -1,1 +1,0 @@
-import{o as t,e as o,f as s}from"./index-DloQOxXN.js";const a={class:"markdown-body"},r=s("h1",null,"KeyframeValue",-1),n=[r],f={__name:"KeyframesValue",setup(c,{expose:e}){return e({frontmatter:{}}),(m,l)=>(t(),o("div",a,n))}};export{f as default};
