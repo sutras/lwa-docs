@@ -1,1 +1,0 @@
-import{o as t,e as o,f as s}from"./index-Cvpb9_PX.js";const a={class:"markdown-body"},n=s("h1",null,"EndDelay",-1),r=[n],p={__name:"EndDelay",setup(c,{expose:e}){return e({frontmatter:{}}),(d,l)=>(t(),o("div",a,r))}};export{p as default};

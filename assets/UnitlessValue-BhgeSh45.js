@@ -1,1 +1,0 @@
-import{o as t,e as s,f as o}from"./index-Cvpb9_PX.js";const a={class:"markdown-body"},n=o("h1",null,"UnitlessValue",-1),r=[n],m={__name:"UnitlessValue",setup(c,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),s("div",a,r))}};export{m as default};

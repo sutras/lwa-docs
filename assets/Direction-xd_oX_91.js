@@ -1,0 +1,1 @@
+import{o as t,e as o,f as s}from"./index-C_B-sJ5H.js";const n={class:"markdown-body"},r=s("h1",null,"Direction",-1),c=[r],l={__name:"Direction",setup(a,{expose:e}){return e({frontmatter:{}}),(i,d)=>(t(),o("div",n,c))}};export{l as default};

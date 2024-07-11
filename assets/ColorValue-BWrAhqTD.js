@@ -1,1 +1,0 @@
-import{o,e as t,f as s}from"./index-Cvpb9_PX.js";const a={class:"markdown-body"},r=s("h1",null,"ColorValue",-1),n=[r],p={__name:"ColorValue",setup(c,{expose:e}){return e({frontmatter:{}}),(l,d)=>(o(),t("div",a,n))}};export{p as default};

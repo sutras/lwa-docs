@@ -1,1 +1,0 @@
-import{o as t,e as o,f as s}from"./index-Cvpb9_PX.js";const r={class:"markdown-body"},c=s("h1",null,"CssSelector",-1),a=[c],p={__name:"CssSelector",setup(n,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),o("div",r,a))}};export{p as default};

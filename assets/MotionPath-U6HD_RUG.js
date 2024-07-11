@@ -1,0 +1,1 @@
+import{o,e,f as s}from"./index-C_B-sJ5H.js";const a={class:"markdown-body"},n=s("h1",null,"MotionPath",-1),r=[n],h={__name:"MotionPath",setup(c,{expose:t}){return t({frontmatter:{}}),(d,i)=>(o(),e("div",a,r))}};export{h as default};

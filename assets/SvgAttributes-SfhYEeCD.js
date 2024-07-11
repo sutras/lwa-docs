@@ -1,0 +1,1 @@
+import{o as e,e as o,f as s}from"./index-C_B-sJ5H.js";const r={class:"markdown-body"},a=s("h1",null,"SvgAttributes",-1),n=[a],l={__name:"SvgAttributes",setup(c,{expose:t}){return t({frontmatter:{}}),(d,i)=>(e(),o("div",r,n))}};export{l as default};

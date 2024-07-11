@@ -1,0 +1,1 @@
+import{o as t,e as o,f as s}from"./index-C_B-sJ5H.js";const a={class:"markdown-body"},r=s("h1",null,"StaggerBasic",-1),c=[r],l={__name:"StaggerBasic",setup(n,{expose:e}){return e({frontmatter:{}}),(d,i)=>(t(),o("div",a,c))}};export{l as default};
