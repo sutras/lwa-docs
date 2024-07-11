@@ -1,0 +1,1 @@
+import{o as t,e as o,f as s}from"./index-B3ikjb9v.js";const a={class:"markdown-body"},n=s("h1",null,"AnimationKeyframes",-1),r=[n],f={__name:"AnimationKeyframes",setup(c,{expose:e}){return e({frontmatter:{}}),(m,i)=>(t(),o("div",a,r))}};export{f as default};

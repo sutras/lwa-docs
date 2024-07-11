@@ -1,1 +1,0 @@
-import{o as t,e as o,f as r}from"./index-C_B-sJ5H.js";const s={class:"markdown-body"},a=r("h1",null,"ArrayType",-1),n=[a],l={__name:"ArrayType",setup(c,{expose:e}){return e({frontmatter:{}}),(p,d)=>(t(),o("div",s,n))}};export{l as default};

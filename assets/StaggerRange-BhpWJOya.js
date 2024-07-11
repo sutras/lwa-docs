@@ -1,1 +1,0 @@
-import{o as t,e as o,f as a}from"./index-C_B-sJ5H.js";const s={class:"markdown-body"},n=a("h1",null,"StaggerRange",-1),r=[n],p={__name:"StaggerRange",setup(c,{expose:e}){return e({frontmatter:{}}),(d,m)=>(t(),o("div",s,r))}};export{p as default};

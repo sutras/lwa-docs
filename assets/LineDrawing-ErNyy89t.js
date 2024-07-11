@@ -1,0 +1,1 @@
+import{o as t,e as o,f as n}from"./index-B3ikjb9v.js";const s={class:"markdown-body"},a=n("h1",null,"LineDrawing",-1),r=[a],l={__name:"LineDrawing",setup(c,{expose:e}){return e({frontmatter:{}}),(i,d)=>(t(),o("div",s,r))}};export{l as default};

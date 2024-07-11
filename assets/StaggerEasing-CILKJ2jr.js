@@ -1,1 +1,0 @@
-import{o as t,e as o,f as s}from"./index-C_B-sJ5H.js";const a={class:"markdown-body"},n=s("h1",null,"StaggerEasing",-1),r=[n],l={__name:"StaggerEasing",setup(c,{expose:e}){return e({frontmatter:{}}),(d,i)=>(t(),o("div",a,r))}};export{l as default};
