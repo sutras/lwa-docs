@@ -1,1 +1,0 @@
-import{o as t,e as o,f as r}from"./index-BxjOkpPk.js";const s={class:"markdown-body"},a=r("h1",null,"ExternalTicker",-1),n=[a],m={__name:"ExternalTicker",setup(c,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),o("div",s,n))}};export{m as default};

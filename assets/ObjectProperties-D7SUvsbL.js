@@ -1,1 +1,0 @@
-import{o as t,e as o,f as s}from"./index-BxjOkpPk.js";const r={class:"markdown-body"},c=s("h1",null,"ObjectProperties",-1),a=[c],m={__name:"ObjectProperties",setup(n,{expose:e}){return e({frontmatter:{}}),(p,d)=>(t(),o("div",r,a))}};export{m as default};

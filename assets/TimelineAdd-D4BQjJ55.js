@@ -1,0 +1,1 @@
+import{o as t,e as o,f as s}from"./index-Cvpb9_PX.js";const n={class:"markdown-body"},a=s("h1",null,"TimelineAdd",-1),r=[a],l={__name:"TimelineAdd",setup(c,{expose:e}){return e({frontmatter:{}}),(d,i)=>(t(),o("div",n,r))}};export{l as default};

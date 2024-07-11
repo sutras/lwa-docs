@@ -1,0 +1,1 @@
+import{o as t,e as o,f as s}from"./index-Cvpb9_PX.js";const a={class:"markdown-body"},n=s("h1",null,"UnitValue",-1),r=[n],m={__name:"UnitValue",setup(c,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),o("div",a,r))}};export{m as default};

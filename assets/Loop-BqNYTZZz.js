@@ -1,1 +1,0 @@
-import{o as e,e as t,f as s}from"./index-BxjOkpPk.js";const a={class:"markdown-body"},n=s("h1",null,"Loop",-1),r=[n],l={__name:"Loop",setup(c,{expose:o}){return o({frontmatter:{}}),(p,d)=>(e(),t("div",a,r))}};export{l as default};
